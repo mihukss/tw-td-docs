@@ -1,3 +1,0 @@
-# 403, but...
-
-... I can provide access to my knowledge. Invite me to an interview — I will tell you in detail how to raise and maintain documentation in your team 😉

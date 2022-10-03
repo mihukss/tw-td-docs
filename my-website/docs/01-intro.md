@@ -1,4 +1,12 @@
-# RU
+---
+id: intro
+title: Introduction
+tags:
+  - Demo
+  - Getting started
+---
+
+# Представляюсь
 
 Меня зовут [Миша Рыжов](https://www.linkedin.com/in/mishuks/) — я технический писатель. Здесь вы найдёте больше информации обо мне и моём опыте.
 
